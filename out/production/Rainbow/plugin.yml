@@ -1,0 +1,7 @@
+name: Rainbow
+main: rainbow.main.SpigotPlugin
+version: 0.1
+commands:
+  rainbow:
+    description: Создает радужную броню игроку
+    aliases: [rbw]
